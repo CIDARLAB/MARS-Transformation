@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="95mm"
+   height="95mm"
+   viewBox="0 0 95000 95000"
+   version="1.1"
+   id="svg219"
+   sodipodi:docname="C_100_100.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview221"
+     showgrid="false"
+     inkscape:zoom="2.6291228"
+     inkscape:cx="131.77388"
+     inkscape:cy="226.07379"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg219" />
+  <defs
+     id="defs57">
+    <radialGradient
+       cx="32000"
+       cy="16000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="21700"
+       cy="16000"
+       r="1750"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="43000"
+       cy="41000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-3"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="31700"
+       cy="41000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-4"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       cx="15000"
+       cy="45000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-5"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       cx="44000"
+       cy="20000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-6"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       cx="70000"
+       cy="20000"
+       r="1750"
+       gradientUnits="userSpaceOnUse"
+       id="color-7"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop34" />
+    </radialGradient>
+    <radialGradient
+       cx="15000"
+       cy="40000"
+       r="1750"
+       gradientUnits="userSpaceOnUse"
+       id="color-8"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop39" />
+    </radialGradient>
+    <radialGradient
+       cx="38000"
+       cy="45000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-9"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop44" />
+    </radialGradient>
+    <radialGradient
+       cx="33830"
+       cy="28000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-10"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop47" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop49" />
+    </radialGradient>
+    <radialGradient
+       cx="29530"
+       cy="28000"
+       r="130"
+       gradientUnits="userSpaceOnUse"
+       id="color-11"
+       gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop52" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop54" />
+    </radialGradient>
+  </defs>
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 218.10938 79.980469 C 217.83802 79.980469 217.61914 80.201298 217.61914 80.472656 L 217.61914 121.44336 L 208.47266 121.44336 L 208.47266 122.42578 L 223.96875 122.42578 L 223.96875 121.44336 L 218.60156 121.44336 L 218.60156 80.962891 L 263.46484 80.962891 L 263.46484 79.980469 L 218.10938 79.980469 z M 70.708984 95.099609 L 70.708984 96.082031 L 172.26367 96.082031 L 172.26367 125.33594 L 150.1543 125.33594 L 149.0957 125.33594 L 149.0957 126.31836 L 149.0957 131.91211 L 149.0957 133.31055 L 150.07812 133.31055 L 150.07812 131.5332 L 150.07812 130.09766 L 150.07812 129.11523 L 150.07812 126.31836 L 150.1543 126.31836 L 210.81641 126.31836 L 210.81641 132.25195 L 210.81641 132.5918 L 211.79883 132.5918 L 211.79883 131.26953 L 211.79883 126.31836 L 226.95508 126.31836 L 226.95508 131.91211 L 226.95508 132.78125 L 227.9375 132.78125 L 227.9375 131.3457 L 227.9375 125.82617 C 227.9375 125.55481 227.71667 125.33594 227.44531 125.33594 L 173.24805 125.33594 L 173.24805 95.589844 C 173.24805 95.318485 173.02722 95.099609 172.75586 95.099609 L 70.708984 95.099609 z M 149.32227 147.25586 L 149.32227 148.24023 L 150.83398 148.24023 L 154.61328 148.24023 L 176.04492 148.24023 L 176.04492 174.96094 C 176.04492 175.2323 176.2638 175.45117 176.53516 175.45117 L 194.94141 175.45117 L 194.94141 190.07812 C 194.94141 190.34948 195.16224 190.57031 195.43359 190.57031 L 282.36133 190.57031 C 282.63269 190.57031 282.85352 190.34948 282.85352 190.07812 L 282.85352 171.18164 L 281.87109 171.18164 L 281.87109 189.58789 L 195.92383 189.58789 L 195.92383 175.45117 L 219.24414 175.45117 C 219.5155 175.45117 219.73633 175.2323 219.73633 174.96094 L 219.73633 148.24023 L 226.04688 148.24023 L 227.18164 148.24023 L 227.18164 147.25586 L 226.04688 147.25586 L 213.19727 147.25586 L 210.55078 147.25586 L 210.55078 148.24023 L 213.19727 148.24023 L 218.75195 148.24023 L 218.75195 174.46875 L 177.02734 174.46875 L 177.02734 147.74805 L 176.53516 147.74805 L 176.53516 147.25586 L 154.61328 147.25586 L 150.83398 147.25586 L 149.32227 147.25586 z M 214.33008 151.79297 L 214.33008 152.77539 L 214.33008 151.79297 z "
+     transform="scale(264.58334)"
+     id="polygon59" />
+</svg>

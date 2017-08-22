@@ -11,18 +11,17 @@
    height="95mm"
    viewBox="0 0 95000 95000"
    version="1.1"
-   id="svg171"
-   sodipodi:docname="C.svg"
+   id="svg219"
+   sodipodi:docname="Device_layer_2.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata175">
+     id="metadata223">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,21 +36,21 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1536"
      inkscape:window-height="801"
-     id="namedview173"
+     id="namedview221"
      showgrid="false"
-     inkscape:zoom="1.8590706"
-     inkscape:cx="229.68645"
-     inkscape:cy="156.47914"
+     inkscape:zoom="1.3145614"
+     inkscape:cx="179.52756"
+     inkscape:cy="179.52756"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg171" />
+     inkscape:current-layer="svg219" />
   <defs
      id="defs57">
     <radialGradient
-       cx="14200"
-       cy="11700"
-       r="1750"
+       cx="32000"
+       cy="16000"
+       r="130"
        gradientUnits="userSpaceOnUse"
        id="color-1"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -65,9 +64,9 @@
          id="stop4" />
     </radialGradient>
     <radialGradient
-       cx="32500"
-       cy="11800"
-       r="130"
+       cx="21700"
+       cy="16000"
+       r="1750"
        gradientUnits="userSpaceOnUse"
        id="color-2"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -81,8 +80,8 @@
          id="stop9" />
     </radialGradient>
     <radialGradient
-       cx="15000"
-       cy="45000"
+       cx="43000"
+       cy="41000"
        r="130"
        gradientUnits="userSpaceOnUse"
        id="color-3"
@@ -97,8 +96,8 @@
          id="stop14" />
     </radialGradient>
     <radialGradient
-       cx="44000"
-       cy="20000"
+       cx="31700"
+       cy="41000"
        r="130"
        gradientUnits="userSpaceOnUse"
        id="color-4"
@@ -113,9 +112,9 @@
          id="stop19" />
     </radialGradient>
     <radialGradient
-       cx="70000"
-       cy="20000"
-       r="1750"
+       cx="15000"
+       cy="45000"
+       r="130"
        gradientUnits="userSpaceOnUse"
        id="color-5"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -129,9 +128,9 @@
          id="stop24" />
     </radialGradient>
     <radialGradient
-       cx="15000"
-       cy="40000"
-       r="1750"
+       cx="44000"
+       cy="20000"
+       r="130"
        gradientUnits="userSpaceOnUse"
        id="color-6"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -145,9 +144,9 @@
          id="stop29" />
     </radialGradient>
     <radialGradient
-       cx="38000"
-       cy="45000"
-       r="130"
+       cx="70000"
+       cy="20000"
+       r="1750"
        gradientUnits="userSpaceOnUse"
        id="color-7"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -161,9 +160,9 @@
          id="stop34" />
     </radialGradient>
     <radialGradient
-       cx="32000"
-       cy="41000"
-       r="130"
+       cx="15000"
+       cy="40000"
+       r="1750"
        gradientUnits="userSpaceOnUse"
        id="color-8"
        gradientTransform="matrix(-1,0,0,1,89708.333,5291.6669)">
@@ -177,8 +176,8 @@
          id="stop39" />
     </radialGradient>
     <radialGradient
-       cx="42000"
-       cy="41000"
+       cx="38000"
+       cy="45000"
        r="130"
        gradientUnits="userSpaceOnUse"
        id="color-9"
@@ -228,256 +227,376 @@
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon59"
-     points="66000,19800 68300,19800 68300,20200 66000,20200 "
+     points="48800,33670 50200,33670 50200,33930 48800,33930 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon61"
-     points="14800,43000 14800,41500 15200,41500 15200,43000 "
+     points="34000,33930 33300,33930 33300,33670 34000,33670 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon63"
-     points="18000,12000 15900,12000 15900,11600 18000,11600 "
+     points="30300,33930 29600,33930 29600,33670 30300,33670 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon65"
-     points="14000,11670 22100,11670 22100,11930 14000,11930 "
+     points="50000,29980 50000,29510 50260,29510 50260,29980 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon67"
-     points="22000,11670 32500,11670 32500,11930 22000,11930 "
+     points="33670,29790 33670,29440 33930,29440 33930,29790 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon69"
-     points="43870,28000 43870,20000 44130,20000 44130,28000 "
+     points="29400,29840 29400,29460 29660,29460 29660,29840 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon71"
-     points="44000,19870 71000,19870 71000,20130 44000,20130 "
+     points="34550,27100 30450,27100 30450,26840 34550,26840 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon73"
-     points="38000,45130 15000,45130 15000,44870 38000,44870 "
+     points="21000,15800 25000,15800 25000,16200 21000,16200 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon75"
-     points="14870,45000 14870,40000 15130,40000 15130,45000 "
+     points="31700,40870 43000,40870 43000,41130 31700,41130 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon77"
-     points="38130,41000 38130,45000 37870,45000 37870,41000 "
+     points="32000,41130 32000,40870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon79"
-     points="41901.757,33470.012 49301.757,33570.012 49298.243,33829.988 41898.243,33729.988 "
+     points="32000,41130 32000,40870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon81"
-     points="42130,33600 42130,34000 41870,34000 41870,33600 "
+     points="32000,41130 32000,40870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon83"
-     points="42130,34000 42130,41000 41870,41000 41870,34000 "
+     points="32000,41130 32000,40870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon85"
-     points="42000,41130 32000,41130 32000,40870 42000,40870 "
+     points="32000,41130 32000,40870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon87"
-     points="31870,41000 31870,33500 32130,33500 32130,41000 "
+     points="42870,41000 42870,33800 43130,33800 43130,41000 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon89"
-     points="33000,33630 30300,33630 30300,33370 33000,33370 "
+     points="43000,33670 49800,33670 49800,33930 43000,33930 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon91"
-     points="50260,28130 49980,28130 49980,27870 50260,27870 "
+     points="31570,41000 31570,33800 31830,33800 31830,41000 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon93"
-     points="50260,28000 50260,29200 50000,29200 50000,28000 "
+     points="33700,33930 29900,33930 29900,33670 33700,33670 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon95"
-     points="50000,28130 29530,28130 29530,27870 50000,27870 "
+     points="33000,35130 33000,34870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon97"
-     points="33830,29330 33830,29070 "
+     points="31870,27000 31870,16000 32130,16000 32130,27000 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon99"
-     points="33700,29200 33700,28000 33960,28000 33960,29200 "
+     points="32000,16130 20000,16130 20000,15870 32000,15870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon101"
-     points="29400,29220 29400,28000 29660,28000 29660,29220 "
+     points="50000,29610 50000,28000 50260,28000 50260,29610 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon103"
-     points="49300,33500 49700,33500 49700,33900 49300,33900 "
+     points="49900,29230 49900,28970 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon105"
-     points="50000,29700 50000,29200 50400,29200 50400,29700 "
+     points="49900,29230 49900,28970 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
-  <path
+  <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
-     id="path107"
-     d="m 40008.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
-  <path
+     id="polygon107"
+     points="49900,28030 49900,27770 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
-     id="path109"
-     d="m 39708.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+     id="polygon109"
+     points="50100,28130 50100,27870 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon111"
-     points="32629.997,11800.884 32529.997,26500.884 32270.003,26499.116 32370.003,11799.116 "
+     points="50100,28130 50100,27870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon113"
-     points="33700,26730 31000,26730 31000,26470 33700,26470 "
+     points="49800,28330 49800,28070 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon115"
-     points="33000,33300 33400,33300 33400,33700 33000,33700 "
+     points="49800,28330 49800,28070 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon117"
-     points="30300,33700 29900,33700 29900,33300 30300,33300 "
+     points="50000,29130 50000,28870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon119"
-     points="34100,29200 34100,29600 33700,29600 33700,29200 "
+     points="50000,29130 50000,28870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon121"
-     points="29800,29200 29800,29700 29400,29700 29400,29200 "
+     points="50000,29130 50000,28870 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon123"
-     points="33700,26400 34200,26400 34200,26800 33700,26800 "
+     points="49700,29630 49700,29370 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <polygon
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      id="polygon125"
-     points="31000,26800 30600,26800 30600,26400 31000,26400 "
+     points="49700,29630 49700,29370 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon127"
+     points="50100,29330 50100,29070 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon129"
+     points="33930,28000 33930,29700 33670,29700 33670,28000 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon131"
+     points="33700,29730 33700,29470 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon133"
+     points="29400,29610 29400,28000 29660,28000 29660,29610 "
      transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
   <path
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:connector-curvature="0"
-     id="path127"
-     d="m 56308.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
-  <path
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
-     id="path129"
-     d="m 60608.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
-  <path
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
-     id="path131"
-     d="m 56008.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
-  <path
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
-     id="path133"
-     d="m 60308.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
-  <path
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:connector-curvature="0"
      id="path135"
-     d="m 55608.33,32292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+     d="m 39808.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -1100 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
   <path
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:connector-curvature="0"
      id="path137"
+     d="m 40008.33,39292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -1100 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 1100 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path139"
+     d="m 56308.33,39292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -1100 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 1100 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path141"
+     d="m 60608.33,39292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -1100 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 1100 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path143"
+     d="m 56108.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -1100 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path145"
+     d="m 60408.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -1100 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path147"
+     d="m 55608.33,32392.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -1100 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 1100 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path149"
+     d="m 59908.33,32392.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -1100 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 1100 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon151"
+     points="66000,19800 68300,19800 68300,20200 66000,20200 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon153"
+     points="14800,43000 14800,41500 15200,41500 15200,43000 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon155"
+     points="43870,28000 43870,20000 44130,20000 44130,28000 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon157"
+     points="44000,19870 71000,19870 71000,20130 44000,20130 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon159"
+     points="38000,45130 15000,45130 15000,44870 38000,44870 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon161"
+     points="14870,45000 14870,40000 15130,40000 15130,45000 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon163"
+     points="38130,41000 38130,45000 37870,45000 37870,41000 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon165"
+     points="50260,28130 49980,28130 49980,27870 50260,27870 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon167"
+     points="50000,28130 29530,28130 29530,27870 50000,27870 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <polygon
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="polygon169"
+     points="33830,29330 33830,29070 "
+     transform="matrix(-1,0,0,1,89708.333,5291.6669)" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path171"
+     d="m 40008.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path173"
+     d="m 39708.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path175"
+     d="m 56308.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path177"
+     d="m 60608.33,39192.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path179"
+     d="m 56008.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path181"
+     d="m 60308.33,35692.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -800 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -900 c -0.276,0 -0.5,0.224 -0.5,0.5 v 800 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path183"
+     d="m 55608.33,32292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
+  <path
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:#b71c1c;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     inkscape:connector-curvature="0"
+     id="path185"
      d="m 59908.33,32292.17 c 0.276,0 0.5,-0.224 0.5,-0.5 v -900 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 h -800 c -0.276,0 -0.5,0.224 -0.5,0.5 v 900 c 0,0.276 0.224,0.5 0.5,0.5 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-1);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path147"
-     d="m 77258.33,16991.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
+     id="path195"
+     d="m 57838.33,21291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-2);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path149"
-     d="m 57338.33,17091.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path197"
+     d="m 69758.33,21291.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-3);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path151"
-     d="m 74838.33,50291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path199"
+     d="m 46838.33,46291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-4);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path153"
-     d="m 45838.33,25291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path201"
+     d="m 58138.33,46291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-5);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path155"
-     d="m 21458.33,25291.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
+     id="path203"
+     d="m 74838.33,50291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-6);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path157"
-     d="m 76458.33,45291.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
+     id="path205"
+     d="m 45838.33,25291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-7);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path159"
-     d="m 51838.33,50291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path207"
+     d="m 21458.33,25291.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-8);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path161"
-     d="m 57838.33,46291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path209"
+     d="m 76458.33,45291.67 c 0,-966.498 -783.502,-1750 -1750,-1750 -966.498,0 -1750,783.502 -1750,1750 0,966.498 783.502,1750 1750,1750 966.498,0 1750,-783.502 1750,-1750 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-9);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path163"
-     d="m 47838.33,46291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
+     id="path211"
+     d="m 51838.33,50291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-10);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path165"
+     id="path213"
      d="m 56008.33,33291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-11);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path167"
+     id="path215"
      d="m 60308.33,33291.67 c 0,-71.797 -58.203,-130 -130,-130 -71.797,0 -130,58.203 -130,130 0,71.797 58.203,130 130,130 71.797,0 130,-58.203 130,-130 z" />
 </svg>
