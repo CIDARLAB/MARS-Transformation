@@ -11,11 +11,11 @@
    height="85mm"
    viewBox="0 0 135000 85000"
    version="1.1"
-   id="svg238"
+   id="svg194"
    sodipodi:docname="F_p_16.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata242">
+     id="metadata198">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,125 +37,125 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1536"
      inkscape:window-height="801"
-     id="namedview240"
+     id="namedview196"
      showgrid="false"
-     inkscape:zoom="8.999753"
-     inkscape:cx="171.41584"
-     inkscape:cy="222.85385"
+     inkscape:zoom="3.1818933"
+     inkscape:cx="224.72174"
+     inkscape:cy="161.84756"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg238" />
+     inkscape:current-layer="svg194" />
   <defs
      id="defs72">
     <radialGradient
-       cx="61000"
-       cy="36000"
+       cx="40000"
+       cy="60000"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-1">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop2" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop4" />
     </radialGradient>
     <radialGradient
-       cx="53000"
-       cy="36000"
+       cx="47000"
+       cy="21000"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-2">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop7" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop9" />
     </radialGradient>
     <radialGradient
-       cx="42000"
-       cy="36000"
+       cx="38000"
+       cy="21000"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-3">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop12" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop14" />
     </radialGradient>
     <radialGradient
-       cx="53000"
-       cy="24000"
+       cx="55000"
+       cy="37100"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-4">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop17" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop19" />
     </radialGradient>
     <radialGradient
-       cx="42000"
-       cy="24000"
+       cx="46800"
+       cy="37100"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-5">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop22" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop24" />
     </radialGradient>
     <radialGradient
-       cx="35000"
-       cy="30000"
+       cx="36400"
+       cy="37100"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-6">
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop27" />
       <stop
-         offset="0.32"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop29" />
     </radialGradient>
     <radialGradient
-       cx="50000"
-       cy="50000"
+       cx="31000"
+       cy="30000"
        r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-7">
       <stop
-         offset="0.76"
+         offset="0.96"
          stop-color="#3f51b5"
          id="stop32" />
       <stop
-         offset="0.76"
+         offset="0.96"
          stop-color="#1a237e"
          id="stop34" />
     </radialGradient>
     <radialGradient
-       cx="61000"
-       cy="36000"
+       cx="40000"
+       cy="60000"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-8">
@@ -169,8 +169,8 @@
          id="stop39" />
     </radialGradient>
     <radialGradient
-       cx="53000"
-       cy="36000"
+       cx="47000"
+       cy="21000"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-9">
@@ -184,8 +184,8 @@
          id="stop44" />
     </radialGradient>
     <radialGradient
-       cx="42000"
-       cy="36000"
+       cx="38000"
+       cy="21000"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-10">
@@ -199,8 +199,8 @@
          id="stop49" />
     </radialGradient>
     <radialGradient
-       cx="53000"
-       cy="24000"
+       cx="55000"
+       cy="37100"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-11">
@@ -214,8 +214,8 @@
          id="stop54" />
     </radialGradient>
     <radialGradient
-       cx="42000"
-       cy="24000"
+       cx="46800"
+       cy="37100"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-12">
@@ -229,8 +229,8 @@
          id="stop59" />
     </radialGradient>
     <radialGradient
-       cx="35000"
-       cy="30000"
+       cx="36400"
+       cy="37100"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-13">
@@ -244,8 +244,8 @@
          id="stop64" />
     </radialGradient>
     <radialGradient
-       cx="50000"
-       cy="50000"
+       cx="31000"
+       cy="30000"
        r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-14">
@@ -262,36 +262,36 @@
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-8);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path222"
-     d="m 59990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path178"
+     d="m 38990,60000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-9);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path224"
-     d="m 51990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path180"
+     d="m 45990,21000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-10);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path226"
-     d="m 40990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path182"
+     d="m 36990,21000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-11);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path228"
-     d="m 51990,24000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path184"
+     d="m 53990,37100 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-12);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path230"
-     d="m 40990,24000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path186"
+     d="m 45790,37100 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-13);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path232"
-     d="m 33990,30000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path188"
+     d="m 35390,37100 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-14);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path234"
-     d="m 48990,50000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
+     id="path190"
+     d="m 29990,30000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
 </svg>
