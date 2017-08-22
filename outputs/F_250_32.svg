@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="135mm"
-   height="85mm"
-   viewBox="0 0 135000 85000"
+   width="95mm"
+   height="95mm"
+   viewBox="0 0 95000 95000"
    version="1.1"
-   id="svg194"
+   id="svg299"
    sodipodi:docname="F_250_32.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata198">
+     id="metadata303">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,128 +37,136 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1536"
      inkscape:window-height="801"
-     id="namedview196"
+     id="namedview301"
      showgrid="false"
-     inkscape:zoom="3.1818933"
-     inkscape:cx="286.54049"
-     inkscape:cy="156.64043"
+     inkscape:zoom="1.8590706"
+     inkscape:cx="309.22848"
+     inkscape:cy="128.85111"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg194" />
+     inkscape:current-layer="svg299" />
   <defs
-     id="defs72">
+     id="defs137">
     <radialGradient
-       cx="40000"
-       cy="60000"
-       r="1250"
+       cx="20300"
+       cy="30000"
+       r="1800"
        gradientUnits="userSpaceOnUse"
-       id="color-1">
+       id="color-1"
+       gradientTransform="matrix(0.00377953,0,0,0.00377953,20.000001,20.000001)">
       <stop
-         offset="0.96"
+         offset="0.16667"
          stop-color="#3f51b5"
          id="stop2" />
       <stop
-         offset="0.96"
+         offset="0.16667"
          stop-color="#1a237e"
          id="stop4" />
     </radialGradient>
     <radialGradient
-       cx="47000"
-       cy="21000"
-       r="1250"
+       cx="49000"
+       cy="37000"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-2">
+       id="color-2"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#3f51b5"
          id="stop7" />
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#1a237e"
          id="stop9" />
     </radialGradient>
     <radialGradient
-       cx="38000"
-       cy="21000"
-       r="1250"
+       cx="35500"
+       cy="22000"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-3">
+       id="color-3"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#3f51b5"
          id="stop12" />
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#1a237e"
          id="stop14" />
     </radialGradient>
     <radialGradient
-       cx="55000"
-       cy="37100"
-       r="1250"
+       cx="29000"
+       cy="22000"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-4">
+       id="color-4"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#3f51b5"
          id="stop17" />
       <stop
-         offset="0.96"
+         offset="0.29703"
          stop-color="#1a237e"
          id="stop19" />
     </radialGradient>
     <radialGradient
-       cx="46800"
-       cy="37100"
-       r="1250"
+       cx="30000"
+       cy="64000"
+       r="1200"
        gradientUnits="userSpaceOnUse"
-       id="color-5">
+       id="color-5"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#3f51b5"
          id="stop22" />
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#1a237e"
          id="stop24" />
     </radialGradient>
     <radialGradient
-       cx="36400"
-       cy="37100"
-       r="1250"
+       cx="35000"
+       cy="37000"
+       r="1200"
        gradientUnits="userSpaceOnUse"
-       id="color-6">
+       id="color-6"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#3f51b5"
          id="stop27" />
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#1a237e"
          id="stop29" />
     </radialGradient>
     <radialGradient
-       cx="31000"
-       cy="30000"
-       r="1250"
+       cx="28300"
+       cy="37000"
+       r="1200"
        gradientUnits="userSpaceOnUse"
-       id="color-7">
+       id="color-7"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#3f51b5"
          id="stop32" />
       <stop
-         offset="0.96"
+         offset="1"
          stop-color="#1a237e"
          id="stop34" />
     </radialGradient>
     <radialGradient
-       cx="40000"
-       cy="60000"
-       r="1010"
+       cx="20300"
+       cy="30000"
+       r="1750"
        gradientUnits="userSpaceOnUse"
-       id="color-8">
+       id="color-8"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -169,11 +177,12 @@
          id="stop39" />
     </radialGradient>
     <radialGradient
-       cx="47000"
-       cy="21000"
-       r="1010"
+       cx="20000"
+       cy="64000"
+       r="250"
        gradientUnits="userSpaceOnUse"
-       id="color-9">
+       id="color-9"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -184,11 +193,12 @@
          id="stop44" />
     </radialGradient>
     <radialGradient
-       cx="38000"
-       cy="21000"
+       cx="30000"
+       cy="64000"
        r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-10">
+       id="color-10"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -199,11 +209,12 @@
          id="stop49" />
     </radialGradient>
     <radialGradient
-       cx="55000"
-       cy="37100"
-       r="1010"
+       cx="49000"
+       cy="37000"
+       r="1200"
        gradientUnits="userSpaceOnUse"
-       id="color-11">
+       id="color-11"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -214,11 +225,12 @@
          id="stop54" />
     </radialGradient>
     <radialGradient
-       cx="46800"
-       cy="37100"
-       r="1010"
+       cx="49000"
+       cy="35000"
+       r="200"
        gradientUnits="userSpaceOnUse"
-       id="color-12">
+       id="color-12"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -229,11 +241,12 @@
          id="stop59" />
     </radialGradient>
     <radialGradient
-       cx="36400"
-       cy="37100"
-       r="1010"
+       cx="50100"
+       cy="34000"
+       r="200"
        gradientUnits="userSpaceOnUse"
-       id="color-13">
+       id="color-13"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -244,11 +257,12 @@
          id="stop64" />
     </radialGradient>
     <radialGradient
-       cx="31000"
-       cy="30000"
-       r="1010"
+       cx="35500"
+       cy="22000"
+       r="1200"
        gradientUnits="userSpaceOnUse"
-       id="color-14">
+       id="color-14"
+       gradientTransform="translate(5291.6669,5291.6669)">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -258,40 +272,218 @@
          stop-color="#1a237e"
          id="stop69" />
     </radialGradient>
+    <radialGradient
+       cx="29000"
+       cy="22000"
+       r="1200"
+       gradientUnits="userSpaceOnUse"
+       id="color-15"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop72" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop74" />
+    </radialGradient>
+    <radialGradient
+       cx="35500"
+       cy="22000"
+       r="400"
+       gradientUnits="userSpaceOnUse"
+       id="color-16"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop77" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop79" />
+    </radialGradient>
+    <radialGradient
+       cx="29000"
+       cy="22000"
+       r="400"
+       gradientUnits="userSpaceOnUse"
+       id="color-17"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop82" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop84" />
+    </radialGradient>
+    <radialGradient
+       cx="35500"
+       cy="25000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-18"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop87" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop89" />
+    </radialGradient>
+    <radialGradient
+       cx="29000"
+       cy="25000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-19"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop92" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop94" />
+    </radialGradient>
+    <radialGradient
+       cx="28300"
+       cy="37000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-20"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop97" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop99" />
+    </radialGradient>
+    <radialGradient
+       cx="35000"
+       cy="37000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-21"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop102" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop104" />
+    </radialGradient>
+    <radialGradient
+       cx="35000"
+       cy="35000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-22"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop107" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop109" />
+    </radialGradient>
+    <radialGradient
+       cx="28300"
+       cy="35000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-23"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop112" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop114" />
+    </radialGradient>
+    <radialGradient
+       cx="34500"
+       cy="26000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-24"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop117" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop119" />
+    </radialGradient>
+    <radialGradient
+       cx="30200"
+       cy="26000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-25"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop122" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop124" />
+    </radialGradient>
+    <radialGradient
+       cx="33800"
+       cy="34000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-26"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop127" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop129" />
+    </radialGradient>
+    <radialGradient
+       cx="29500"
+       cy="34000"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       id="color-27"
+       gradientTransform="translate(5291.6669,5291.6669)">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop132" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop134" />
+    </radialGradient>
   </defs>
   <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-1);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path164"
-     d="m 38750,60000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-2);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path166"
-     d="m 45750,21000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-3);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path168"
-     d="m 36750,21000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-4);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path170"
-     d="m 53750,37100 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-5);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path172"
-     d="m 45550,37100 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-6);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path174"
-     d="m 35150,37100 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-7);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path176"
-     d="m 29750,30000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
+     style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-1);stroke:none;stroke-width:0.00377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 129.60547 98.613281 C 127.10062 98.613281 125.07031 100.64554 125.07031 103.15039 C 125.07031 105.65524 127.10062 107.68555 129.60547 107.68555 C 132.11032 107.68555 134.14258 105.65524 134.14258 103.15039 C 134.14258 100.64554 132.11032 98.613281 129.60547 98.613281 z M 154.17383 98.613281 C 151.66898 98.613281 149.63867 100.64554 149.63867 103.15039 C 149.63867 105.65524 151.66898 107.68555 154.17383 107.68555 C 156.67868 107.68555 158.70898 105.65524 158.70898 103.15039 C 158.70898 100.64554 156.67868 98.613281 154.17383 98.613281 z M 96.724609 126.58203 C 92.967332 126.58203 89.921875 129.62944 89.921875 133.38672 C 89.921875 137.144 92.967332 140.18945 96.724609 140.18945 C 100.48189 140.18945 103.52734 137.144 103.52734 133.38672 C 103.52734 129.62944 100.48189 126.58203 96.724609 126.58203 z M 126.96094 155.30664 C 124.45609 155.30664 122.42578 157.33695 122.42578 159.8418 C 122.42578 162.34665 124.45609 164.37891 126.96094 164.37891 C 129.46579 164.37891 131.49609 162.34665 131.49609 159.8418 C 131.49609 157.33695 129.46579 155.30664 126.96094 155.30664 z M 152.2832 155.30664 C 149.77835 155.30664 147.74805 157.33695 147.74805 159.8418 C 147.74805 162.34665 149.77835 164.37891 152.2832 164.37891 C 154.78805 164.37891 156.81836 162.34665 156.81836 159.8418 C 156.81836 157.33695 154.78805 155.30664 152.2832 155.30664 z M 205.19727 155.30664 C 202.69241 155.30664 200.66211 157.33695 200.66211 159.8418 C 200.66211 162.34665 202.69241 164.37891 205.19727 164.37891 C 207.70212 164.37891 209.73242 162.34665 209.73242 159.8418 C 209.73242 157.33695 207.70212 155.30664 205.19727 155.30664 z M 133.38672 257.35352 C 130.88187 257.35352 128.84961 259.38577 128.84961 261.89062 C 128.84961 264.39548 130.88187 266.42578 133.38672 266.42578 C 135.89157 266.42578 137.92188 264.39548 137.92188 261.89062 C 137.92188 259.38577 135.89157 257.35352 133.38672 257.35352 z "
+     transform="scale(264.58334)"
+     id="path243" />
 </svg>
