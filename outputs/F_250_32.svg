@@ -11,11 +11,11 @@
    height="85mm"
    viewBox="0 0 135000 85000"
    version="1.1"
-   id="svg202"
+   id="svg238"
    sodipodi:docname="F_250_32.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata206">
+     id="metadata242">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,59 +37,59 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1536"
      inkscape:window-height="801"
-     id="namedview204"
+     id="namedview240"
      showgrid="false"
-     inkscape:zoom="3.1818932"
+     inkscape:zoom="2.2499383"
      inkscape:cx="255.11811"
      inkscape:cy="160.62992"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg202" />
+     inkscape:current-layer="svg238" />
   <defs
      id="defs72">
     <radialGradient
        cx="61000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-1">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop2" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop4" />
     </radialGradient>
     <radialGradient
        cx="53000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-2">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop7" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop9" />
     </radialGradient>
     <radialGradient
        cx="42000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-3">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop12" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop14" />
     </radialGradient>
@@ -156,7 +156,7 @@
     <radialGradient
        cx="61000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-8">
       <stop
@@ -171,7 +171,7 @@
     <radialGradient
        cx="53000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-9">
       <stop
@@ -186,7 +186,7 @@
     <radialGradient
        cx="42000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
        id="color-10">
       <stop
@@ -262,36 +262,36 @@
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-1);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path172"
-     d="m 60100,36000 c 0,-497.056 402.944,-900 900,-900 497.056,0 900,402.944 900,900 0,497.056 -402.944,900 -900,900 -497.056,0 -900,-402.944 -900,-900 z" />
+     id="path208"
+     d="m 59750,36000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-2);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path174"
-     d="m 52100,36000 c 0,-497.056 402.944,-900 900,-900 497.056,0 900,402.944 900,900 0,497.056 -402.944,900 -900,900 -497.056,0 -900,-402.944 -900,-900 z" />
+     id="path210"
+     d="m 51750,36000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-3);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path176"
-     d="m 41100,36000 c 0,-497.056 402.944,-900 900,-900 497.056,0 900,402.944 900,900 0,497.056 -402.944,900 -900,900 -497.056,0 -900,-402.944 -900,-900 z" />
+     id="path212"
+     d="m 40750,36000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-4);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path178"
+     id="path214"
      d="m 51750,24000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-5);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path180"
+     id="path216"
      d="m 40750,24000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-6);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path182"
+     id="path218"
      d="m 33750,30000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-7);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path184"
+     id="path220"
      d="m 48750,50000 c 0,-690.356 559.644,-1250 1250,-1250 690.356,0 1250,559.644 1250,1250 0,690.356 -559.644,1250 -1250,1250 -690.356,0 -1250,-559.644 -1250,-1250 z" />
 </svg>

@@ -11,11 +11,11 @@
    height="85mm"
    viewBox="0 0 135000 85000"
    version="1.1"
-   id="svg202"
-   sodipodi:docname="F_p16.svg"
+   id="svg238"
+   sodipodi:docname="F_p_16.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata206">
+     id="metadata242">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,59 +37,59 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1536"
      inkscape:window-height="801"
-     id="namedview204"
+     id="namedview240"
      showgrid="false"
-     inkscape:zoom="3.1818932"
-     inkscape:cx="142.17253"
-     inkscape:cy="154.7106"
+     inkscape:zoom="8.999753"
+     inkscape:cx="171.41584"
+     inkscape:cy="222.85385"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg202" />
+     inkscape:current-layer="svg238" />
   <defs
      id="defs72">
     <radialGradient
        cx="61000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-1">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop2" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop4" />
     </radialGradient>
     <radialGradient
        cx="53000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-2">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop7" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop9" />
     </radialGradient>
     <radialGradient
        cx="42000"
        cy="36000"
-       r="900"
+       r="1250"
        gradientUnits="userSpaceOnUse"
        id="color-3">
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#3f51b5"
          id="stop12" />
       <stop
-         offset="0.44444"
+         offset="0.32"
          stop-color="#1a237e"
          id="stop14" />
     </radialGradient>
@@ -156,10 +156,9 @@
     <radialGradient
        cx="61000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-8"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-8">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -172,10 +171,9 @@
     <radialGradient
        cx="53000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-9"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-9">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -188,10 +186,9 @@
     <radialGradient
        cx="42000"
        cy="36000"
-       r="790"
+       r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-10"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-10">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -206,8 +203,7 @@
        cy="24000"
        r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-11"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-11">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -222,8 +218,7 @@
        cy="24000"
        r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-12"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-12">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -238,8 +233,7 @@
        cy="30000"
        r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-13"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-13">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -254,8 +248,7 @@
        cy="50000"
        r="1010"
        gradientUnits="userSpaceOnUse"
-       id="color-14"
-       gradientTransform="translate(0,2.2070919e-5)">
+       id="color-14">
       <stop
          offset="1"
          stop-color="#5c6bc0"
@@ -269,36 +262,36 @@
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-8);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path186"
-     d="m 60210,36000 c 0,-436.305 353.695,-790 790,-790 436.305,0 790,353.695 790,790 0,436.305 -353.695,790 -790,790 -436.305,0 -790,-353.695 -790,-790 z" />
+     id="path222"
+     d="m 59990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-9);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path188"
-     d="m 52210,36000 c 0,-436.305 353.695,-790 790,-790 436.305,0 790,353.695 790,790 0,436.305 -353.695,790 -790,790 -436.305,0 -790,-353.695 -790,-790 z" />
+     id="path224"
+     d="m 51990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-10);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path190"
-     d="m 41210,36000 c 0,-436.305 353.695,-790 790,-790 436.305,0 790,353.695 790,790 0,436.305 -353.695,790 -790,790 -436.305,0 -790,-353.695 -790,-790 z" />
+     id="path226"
+     d="m 40990,36000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-11);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path192"
+     id="path228"
      d="m 51990,24000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-12);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path194"
+     id="path230"
      d="m 40990,24000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-13);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path196"
+     id="path232"
      d="m 33990,30000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
   <path
      inkscape:connector-curvature="0"
      style="font-weight:normal;font-size:medium;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:url(#color-14);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path198"
+     id="path234"
      d="m 48990,50000 c 0,-557.808 452.192,-1010 1010,-1010 557.808,0 1010,452.192 1010,1010 0,557.808 -452.192,1010 -1010,1010 -557.808,0 -1010,-452.192 -1010,-1010 z" />
 </svg>
